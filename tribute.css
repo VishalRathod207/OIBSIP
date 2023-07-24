@@ -1,0 +1,32 @@
+.background-container {
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+}
+
+.abdul-kalam {
+    height: 30vh;
+    border: 10px;
+    width: 160px;
+}
+
+.wings-of-fire-2 {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    margin-top: 10px;
+    color: black;
+}
+
+.abdul-kalam-para2 {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 20px;
+    color: #9aa5b1;
+}
+
+.abdul-kalam-para-main {
+    color: black;
+    font-size: 15px;
+    text-align: left;
+}
